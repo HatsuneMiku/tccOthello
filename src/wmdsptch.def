@@ -1,0 +1,27 @@
+LIBRARY wmdsptch.dll
+
+EXPORTS
+WMD_Bind
+WMD_CMBind
+WMD_CMUnBind
+WMD_CenterWindow
+WMD_CreateCommandMenu
+WMD_CreateDispatcher
+WMD_CreateMenu
+WMD_CreatePopupMenu
+WMD_DarkMenu
+WMD_DestroyCommandMenu
+WMD_DestroyDispatcher
+WMD_Handler
+WMD_RadioMenu
+WMD_ToggleMenu
+WMD_UnBind
+WMD_create
+WMD_debug
+WMD_destroy
+WMD_free
+WMD_list
+WMD_malloc
+WMD_pop
+WMD_push
+WMD_ref

@@ -15,6 +15,7 @@ Downloads
 ---------
 
  - download [tccOthello-0.1.0.zip](https://github.com/HatsuneMiku/tccOthello/blob/0.1.0/release-0.1.0/tccOthello-0.1.0.zip?raw=true)
+ - download [tccOthello-0.2.0.zip](https://github.com/HatsuneMiku/tccOthello/blob/0.2.0/release-0.2.0/tccOthello-0.2.0.zip?raw=true)
 
 
 Links

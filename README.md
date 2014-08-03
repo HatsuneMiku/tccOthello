@@ -22,5 +22,4 @@ Links
 
  - http://HatsuneMiku.github.io/tccOthello/ (Home)
  - https://github.com/HatsuneMiku/tccOthello/ (GitHub repository)
-
  - http://bellard.org/tcc/ (Tiny C Compiler)

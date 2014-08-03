@@ -14,7 +14,7 @@ ScreenShot
 Downloads
 ---------
 
- - download [release-0.1.0](https://github.com/HatsuneMiku/tccOthello/blob/master/release-0.1.0/tccOthello.exe?raw=true)
+ - download [tccOthello-0.1.0.zip](https://github.com/HatsuneMiku/tccOthello/blob/master/release-0.1.0/tccOthello-0.1.0.zip?raw=true)
 
 
 Links
